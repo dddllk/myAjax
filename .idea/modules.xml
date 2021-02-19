@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-全局刷新计算BMI/01-全局刷新计算BMI.iml" filepath="$PROJECT_DIR$/01-全局刷新计算BMI/01-全局刷新计算BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-局部刷新计算BMI/02-局部刷新计算BMI.iml" filepath="$PROJECT_DIR$/02-局部刷新计算BMI/02-局部刷新计算BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-连接数据库查询/03-连接数据库查询.iml" filepath="$PROJECT_DIR$/03-连接数据库查询/03-连接数据库查询.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myAjax.iml" filepath="$PROJECT_DIR$/myAjax.iml" />
+    </modules>
+  </component>
+</project>
