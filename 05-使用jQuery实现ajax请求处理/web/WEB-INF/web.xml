@@ -3,4 +3,20 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+    <servlet>
+        <servlet-name>QueryProvinceServlet</servlet-name>
+        <servlet-class>com.bjpowernode.controller.QueryProvinceServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>QueryCityServlet</servlet-name>
+        <servlet-class>com.bjpowernode.controller.QueryCityServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>QueryProvinceServlet</servlet-name>
+        <url-pattern>/QueryProvince</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>QueryCityServlet</servlet-name>
+        <url-pattern>/QueryCity</url-pattern>
+    </servlet-mapping>
 </web-app>

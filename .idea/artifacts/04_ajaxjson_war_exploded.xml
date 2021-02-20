@@ -7,9 +7,7 @@
         <element id="directory" name="classes">
           <element id="module-output" name="04-ajax请求使用json格式的数据" />
         </element>
-        <element id="directory" name="lib">
-          <element id="library" level="project" name="lib (2)" />
-        </element>
+        <element id="directory" name="lib" />
       </element>
     </root>
   </artifact>
