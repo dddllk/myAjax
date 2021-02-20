@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-全局刷新计算BMI/01-全局刷新计算BMI.iml" filepath="$PROJECT_DIR$/01-全局刷新计算BMI/01-全局刷新计算BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-局部刷新计算BMI/02-局部刷新计算BMI.iml" filepath="$PROJECT_DIR$/02-局部刷新计算BMI/02-局部刷新计算BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-连接数据库查询/03-连接数据库查询.iml" filepath="$PROJECT_DIR$/03-连接数据库查询/03-连接数据库查询.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-ajax请求使用json格式的数据/04-ajax请求使用json格式的数据.iml" filepath="$PROJECT_DIR$/04-ajax请求使用json格式的数据/04-ajax请求使用json格式的数据.iml" />
       <module fileurl="file://$PROJECT_DIR$/myAjax.iml" filepath="$PROJECT_DIR$/myAjax.iml" />
     </modules>
   </component>

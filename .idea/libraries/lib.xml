@@ -1,10 +1,12 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/03-连接数据库查询/web/WEB-INF/lib" />
+      <root url="jar://$PROJECT_DIR$/../AJAX文档/课程资料/03-资源/jar文件/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AJAX文档/课程资料/03-资源/jar文件/jackson-core-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AJAX文档/课程资料/03-资源/jar文件/jackson-databind-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AJAX文档/课程资料/03-资源/jar文件/mysql-connector-java-5.1.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$PROJECT_DIR$/03-连接数据库查询/web/WEB-INF/lib" recursive="false" />
   </library>
 </component>

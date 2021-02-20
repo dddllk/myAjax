@@ -21,6 +21,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="myTomcat" level="application_server_libraries" />
-    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="lib" level="project" />
   </component>
 </module>

@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="myTomcat" level="application_server_libraries" />
+    <orderEntry type="library" name="jackson-annotations-2.9.0" level="application" />
   </component>
 </module>
